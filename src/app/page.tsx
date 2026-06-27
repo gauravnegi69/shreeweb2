@@ -110,6 +110,13 @@ export default function Storefront() {
         </div>
       </nav>
 
+      {/* Title Header Section (1-line compact title) */}
+      <header className="relative max-w-4xl mx-auto text-center px-4 pt-6 pb-1">
+        <h1 className="text-lg md:text-xl font-bold tracking-tight text-slate-800">
+          {settings?.siteTitle || 'Premium App Store – Discover & Download Apps'}
+        </h1>
+      </header>
+
       {/* Search Bar Section */}
       <section className="max-w-md mx-auto w-full px-4 mt-6 mb-6">
         <div className="relative group">
