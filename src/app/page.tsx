@@ -110,18 +110,8 @@ export default function Storefront() {
         </div>
       </nav>
 
-      {/* Hero Section */}
-      <header className="relative max-w-4xl mx-auto text-center px-4 pt-16 pb-8">
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight mb-4">
-          {settings?.siteTitle || 'Premium App Store'}
-        </h1>
-        <p className="text-base md:text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
-          {settings?.siteDescription || 'Discover, explore, and download handpicked premium applications tailored for your everyday needs. Safe, fast, and completely secure.'}
-        </p>
-      </header>
-
       {/* Search Bar Section */}
-      <section className="max-w-md mx-auto w-full px-4 mb-12">
+      <section className="max-w-md mx-auto w-full px-4 mt-6 mb-6">
         <div className="relative group">
           <div className="absolute -inset-0.5 bg-gradient-to-r from-sky-400 to-indigo-400 rounded-xl opacity-20 group-hover:opacity-35 blur-sm transition-all duration-300" />
           <div className="relative flex items-center">
@@ -139,6 +129,9 @@ export default function Storefront() {
 
       {/* Main Apps Grid Container */}
       <main className="max-w-6xl mx-auto px-4 flex-1 w-full pb-20">
+        <div className="mb-4">
+          <h2 className="text-[10px] font-black tracking-widest text-slate-400 uppercase">Featured Applications</h2>
+        </div>
         {loading ? (
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             {[1, 2, 3, 4].map((n) => (
