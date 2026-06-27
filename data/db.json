@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "id": "2",
+      "name": "Lemon Juice Maker",
+      "slug": "lemon-juice-maker",
+      "logo": "https://images.unsplash.com/photo-1596838132731-3301c3fd4317?w=150&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "downloads": "50K+",
+      "status": "active",
+      "verified": true,
+      "downloadUrl": "https://primerwalla.online/getapk.php?id=2",
+      "description": "A fun and simple casual physics juice game. Tap to squeeze lemons, mix flavors, and hit the target score."
+    },
+    {
+      "id": "3",
+      "name": "Spin Wheel Casual",
+      "slug": "spin-wheel-casual",
+      "logo": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=150&auto=format&fit=crop&q=60",
+      "rating": 4.8,
+      "downloads": "500K+",
+      "status": "active",
+      "verified": true,
+      "downloadUrl": "https://primerwalla.online/getapk.php?id=5",
+      "description": "Test your focus and timing in this offline spinning wheel arcade simulator. Earn scores and unlock new styles."
+    },
+    {
+      "id": "4",
+      "name": "Royal Match Triple",
+      "slug": "royal-match-triple",
+      "logo": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "downloads": "200K+",
+      "status": "active",
+      "verified": true,
+      "downloadUrl": "https://primerwalla.online/getapk.php?id=3",
+      "description": "Match triple cards and clean the board. A challenging offline casual strategy card board game for all ages."
+    },
+    {
+      "id": "5",
+      "name": "Yono Utility Hub",
+      "slug": "yono-utility-hub",
+      "logo": "https://images.unsplash.com/photo-1553481187-be93c21490a9?w=150&auto=format&fit=crop&q=60",
+      "rating": 4.7,
+      "downloads": "1M+",
+      "status": "active",
+      "verified": true,
+      "downloadUrl": "https://primerwalla.online/getapk.php?id=4",
+      "description": "A clean utility dashboard listing casual offline game apps, device statistics organizers, and security managers."
+    }
+  ],
+  "settings": {
+    "siteName": "Earn Daily",
+    "siteTitle": "Premium App Store – Discover & Download Apps",
+    "siteDescription": "Discover and download the latest and most popular Android apps safely and securely with our premium app vault.",
+    "footerText": "© 2026 Earn Daily. All rights reserved.",
+    "telegramLink": "https://t.me/BossRummyOfficial",
+    "whatsappLink": "https://whatsapp.com/channel/0029VbCfPsoGE56icPpsnI2e",
+    "chatLink": "https://www.bossrummyhelp.com",
+    "disclaimer": "Disclaimer: This website is not part of the Facebook website or Meta Platforms, Inc. Additionally, this site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of META PLATFORMS, INC.",
+    "adminEmail": "spidyweb699@gmail.com",
+    "adminPasswordHash": "$2a$10$lQeZtAAZvRBm8zzhOcY50OFuX/Hud2vrHE98pQE/Bo2sSaiXYd1Le"
+  }
+}
